@@ -1,0 +1,30 @@
+CONTROLLER FOCUS 1.0.0 - made by polatica
+
+Windows - Geometry Dash 2.2081 - Geode 5.8.2 (5.x)
+
+INSTALLATION
+1. Ferme Geometry Dash.
+2. Steam : clic droit sur Geometry Dash > Gérer > Parcourir les fichiers locaux.
+3. Ouvre geode, puis mods.
+4. Copie polatica.controller_focus.geode dedans.
+5. Relance le jeu.
+
+UTILISATION
+Rien à régler. Quand GD est en arrière-plan, il ignore la manette : boutons,
+Retour, Pause, menus, gâchettes, croix, sticks, et la souris pilotée par la manette.
+
+Quand tu reviens sur GD, relâche tous les boutons et gâchettes et recentre les
+sticks une fois, la manette se réactive ensuite. C'est fait pour éviter qu'un
+bouton resté enfoncé dans un autre jeu déclenche quelque chose dans GD.
+
+POUR TESTER
+Laisse GD ouvert, passe sur une autre appli et appuie sur tout : GD ne doit pas
+réagir. Reviens sur GD, relâche la manette et vérifie qu'elle remarche. Refais
+le test avec GD réduit dans la barre des tâches.
+
+Les tests automatiques ne couvrent que la logique, pas le jeu lui-même.
+Un logiciel qui transforme la manette en clavier/souris, ou un mod qui lit la
+manette tout seul, peut demander un réglage à part.
+
+DÉSINSTALLATION
+Ferme le jeu et supprime polatica.controller_focus.geode de geode/mods.

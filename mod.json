@@ -1,0 +1,16 @@
+{
+  "geode": "5.8.2",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "polatica.controller_focus",
+  "name": "Controller Focus",
+  "version": "v1.0.0",
+  "developer": "polatica",
+  "description": "Keep every controller input inside Geometry Dash only while the game is focused.",
+  "tags": [
+    "bugfix",
+    "utility"
+  ],
+  "repository": "https://github.com/polatica/controller-focus"
+}

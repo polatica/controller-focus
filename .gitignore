@@ -1,0 +1,7 @@
+build*/
+*.geode
+*.obj
+*.exe
+*.pdb
+*.dll
+.vs/
